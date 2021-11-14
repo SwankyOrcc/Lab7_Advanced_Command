@@ -115,6 +115,7 @@ namespace Lab7_Advanced_Command
 			if(idBill == -1)
 			{
 				BillDAO.Instance.InsertBill(table.ID);
+
 			
 			}
 		}
